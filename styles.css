@@ -1,0 +1,57 @@
+/* 
+Colors
+#03919b =  Viridian green
+#042a2b = Rich Black (dark green)
+#d8e1e9 = Gainsboro (white)
+#94778b = Mountbatten Pink
+#5f5aa2 = Liberty (lavender)
+#60712f = Dark Olive Green
+#6coe23 - Burgundy
+*/
+
+body {
+    background-color: #d8e1e9;
+}
+
+a {
+    color: #d8e1e9;
+    text-decoration: inherit;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 16px;
+    background-color: #042a2b;
+    
+}
+
+.headerList {
+    display: flex;
+    list-style: none; 
+}
+
+li {
+    margin-left: 10px;
+}
+
+/* title */
+
+.title {
+    display: flex;
+    padding: 48px 16px;
+    background-color: #03919b;
+    align-items: center;
+}
+
+/* 
+Colors
+#03919b =  Viridian green
+#042a2b = Rich Black (dark green)
+#d8e1e9 = Gainsboro (white)
+#94778b = Mountbatten Pink
+#5f5aa2 = Liberty (lavender)
+#60712f = Dark Olive Green
+#6coe23 - Burgundy
+*/
